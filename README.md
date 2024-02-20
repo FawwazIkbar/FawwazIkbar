@@ -8,6 +8,9 @@ I have also worked on several projects such as Implementation of Convolutional N
 
 If you are interested in dating me, contact me via this email "fawwazcanaiago@gmail.com".
 
+I also have some other basic programming skills such as HTML, CSS, Boostrap5.<br>
+I am also a person who thinks positively in doing things, and can adapt well to the work environment, as well as working as a team<br>
+
 <!--
 **FawwazIkbar/FawwazIkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
