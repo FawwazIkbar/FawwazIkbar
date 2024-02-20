@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Let me introduce myself, my name is Fawwaz Ikbar. A Computer Science Student who has a high interest in learning and enjoys learning new things. Honest, responsible personality, able to work together in a team and think positively and accustomed to looking ahead before doing something.<br>
+
+I have experience working as a team on the PKM-PI SICODE 2023 Team. This team built a programming training website to hone students' programming skills. In this team, I am the one who designs the questions given to students.<br>
+
+I have also worked on several projects such as Implementation of Convolutional Neural Network (CNN) Algorithm in Herbal Plant Classification (Ginger, Galangal, Kencur).<br>
+
+If you are interested in dating me, contact me via this email "fawwazcanaiago@gmail.com".
+
 <!--
 **FawwazIkbar/FawwazIkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
