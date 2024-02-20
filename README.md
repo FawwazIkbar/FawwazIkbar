@@ -11,6 +11,13 @@ If you are interested in dating me, contact me via this email "fawwazcanaiago@gm
 I also have some other basic programming skills such as HTML, CSS, Boostrap5.<br>
 I am also a person who thinks positively in doing things, and can adapt well to the work environment, as well as working as a team<br>
 
+<p align="left">
+<a href="https://github.com/FawwazIkbar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **FawwazIkbar/FawwazIkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
