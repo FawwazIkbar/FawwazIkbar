@@ -14,7 +14,7 @@ I am also a person who thinks positively in doing things, and can adapt well to 
 <p align="left">
 <a href="https://github.com/FawwazIkbar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FawwazIkbar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fawwazikbar&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=&layout=compact&theme=algolia"/>
 </a>
 </p>
 
