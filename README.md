@@ -6,7 +6,7 @@ I have experience working as a team on the PKM-PI SICODE 2023 Team. This team bu
 
 I have also worked on several projects such as Implementation of Convolutional Neural Network (CNN) Algorithm in Herbal Plant Classification (Ginger, Galangal, Kencur).<br>
 
-If you are interested in dating me, contact me via this email "fawwazcanaiago@gmail.com".
+If you are interested collaborating, contact me via this email "fawwazcanaiago@gmail.com".
 
 I also have some other basic programming skills such as HTML, CSS, Boostrap5.<br>
 I am also a person who thinks positively in doing things, and can adapt well to the work environment, as well as working as a team<br>
